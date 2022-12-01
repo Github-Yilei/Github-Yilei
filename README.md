@@ -5,7 +5,8 @@
 - 📫 How to reach me ylwu2021@gmail.com
 
 ![Visitor Count](https://profile-counter.glitch.me/Github-Yilei/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Github-Yilei/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Github-Yilei/github-readme-stats)
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Github-Yilei&show_icons=true&theme=tokyonight)
 <!---
